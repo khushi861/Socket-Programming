@@ -52,7 +52,6 @@ while(1)
         cout<<"Connection Terminated";
         break;
     }
-}
 send(clientSocketID, message, sizeof(message),0);
 cout<<"Server: ";
 recv(clientSocketID,message,sizeof(message),0);
@@ -65,4 +64,5 @@ if(!strcmp(message,"exit))
 cout<<message<<endl;
 
 close(clientSocketID);
+}
 }
