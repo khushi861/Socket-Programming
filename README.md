@@ -89,13 +89,13 @@ Currently our broker/server can handle only upto 8 clients/Iot devices.</p>
 <p align="justify>
 <h2>Installation</h2>
 </p>
- >By Using Hosted Website 
+>By Using Hosted Website 
    - Download the all files from folder [sensors](https://github.com/Nageshbansal/IotChatbot/tree/main/sensors) 
    -  Install Python 
    -  Install Paho-mqtt
-      ``` 
-      pip install paho-mqtt
-      ```
+     ``` 
+     pip install paho-mqtt
+     ```
    - Run each files in a seperate terminal 
    
      ```
