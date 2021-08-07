@@ -74,17 +74,21 @@
 - Wearables
 
 <p align="justify>
-## Limitation
-          <p>
-           Currently our broker/server can handle only upto 8 clients/Iot devices.</p>
+ ## Limitation
+</p>
+<p>
+Currently our broker/server can handle only upto 8 clients/Iot devices.</p>
  
 <p align="justify>
-## Future Improvements</p>
+## Future Improvements
+</p>
  - ML model for better User experience which can give best suggestions to user by analysing previous user input.
  - Allowing connection of more clients
  - Raspberry Pi and Sensors usage so that we can deal with realtime data.
 
+<p align="justify>
    ## Installation
+</p>
  >By Using Hosted Website 
    - Download the all files from folder [sensors](https://github.com/Nageshbansal/IotChatbot/tree/main/sensors) 
    -  Install Python 
@@ -145,8 +149,8 @@
  </p>
  [http://iotchatbot.azurewebsites.net/](http://iotchatbot.azurewebsites.net/)
   
-  
-          <h2> Team Members</h2>
+  <p align="jutify">
+ <h2> Team Members</h2>
  <p>
  1. [Khushi Kumawat](https://github.com/khushi861)
  2. [Kushagra Agarwal](https://github.com/Kushagra-Agarwal44)
@@ -155,19 +159,19 @@
  </p>
 
  
-          <h2> Mentors</h2>
-          <p>
+  <h2> Mentors</h2>
+  <p>
  1. [Pradnesh Chavan](https://github.com/theobscuredev)
  2. [Sanjeev Krishnan R.](https://github.com/SanjeevKrishnan)
-          </p>
+  </p>
 
 
-          <h2> References</h2>
-          <p>
+  <h2> References</h2>
+  <p>
  1. [MQTT Basics](https://medium.com/python-point/mqtt-basics-with-python-examples-7c758e605d4)
  2. [Flask Documentation](https://flask.palletsprojects.com/en/2.0.x/)
  3. [IoT Architecture](https://www.avsystem.com/blog/what-is-iot-architecture/)
  4. [Azure IoTHub](https://docs.microsoft.com/en-in/azure/iot-hub/)
-          </p>
+  </p>
 
   
