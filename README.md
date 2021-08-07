@@ -87,7 +87,7 @@ Currently our broker/server can handle only upto 8 clients/Iot devices.</p>
  - Raspberry Pi and Sensors usage so that we can deal with realtime data.
 
 <p align="justify>
-   ## Installation
+<h2>Installation</h2>
 </p>
  >By Using Hosted Website 
    - Download the all files from folder [sensors](https://github.com/Nageshbansal/IotChatbot/tree/main/sensors) 
