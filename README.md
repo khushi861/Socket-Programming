@@ -147,7 +147,7 @@ Currently our broker/server can handle only upto 8 clients/Iot devices.</p>
 <p align="justify>
 <h2> Hosted Chatbot</h2>
 </p>
- [http://iotchatbot.azurewebsites.net/](http://iotchatbot.azurewebsites.net/)
+ (http://iotchatbot.azurewebsites.net/](http://iotchatbot.azurewebsites.net/)
   
   <p align="jutify">
  <h2> Team Members</h2>
