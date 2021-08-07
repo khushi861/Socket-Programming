@@ -54,7 +54,7 @@
  
 
 <p align="justify>
-## Cost Structure
+<h2> Cost Structure</h2>
 </p>
 
 | Software Components | Cost |
@@ -65,10 +65,9 @@
 | Cloud Services | Depends on service provider |
 
 <p align="justify>
-## Applications
- </p>
+<h2> Applications</h2>
 <p>- Healthcare Sector</p>
-<p>- Home Automation</p>
+<p>- Home Automation</p></p>
 - Automotive IoT
 - Industrial Automation
 - Wearables
