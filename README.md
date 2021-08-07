@@ -74,13 +74,13 @@
 - Wearables
 
 <p align="justify>
- ## Limitation
-</p>
+<h2> Limitation </h2>
 <p>
 Currently our broker/server can handle only upto 8 clients/Iot devices.</p>
+</p>
  
 <p align="justify>
-## Future Improvements
+<h2> Future Improvements</h2>
 </p>
  - ML model for better User experience which can give best suggestions to user by analysing previous user input.
  - Allowing connection of more clients
@@ -152,10 +152,10 @@ Currently our broker/server can handle only upto 8 clients/Iot devices.</p>
   <p align="jutify">
  <h2> Team Members</h2>
  <p>
- 1. [Khushi Kumawat](https://github.com/khushi861)
- 2. [Kushagra Agarwal](https://github.com/Kushagra-Agarwal44)
- 3. [Nagesh Bansal](https://github.com/Nageshbansal)
- 4. [Vaishnavi Gupta](https://github.com/vaishnavi-gupta18)
+ 1. [Khushi Kumawat](https://github.com/khushi861)<br>
+ 2. [Kushagra Agarwal](https://github.com/Kushagra-Agarwal44)<br>
+ 3. [Nagesh Bansal](https://github.com/Nageshbansal)<br>
+ 4. [Vaishnavi Gupta](https://github.com/vaishnavi-gupta18)<br>
  </p>
 
  
