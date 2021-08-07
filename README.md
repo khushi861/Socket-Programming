@@ -89,25 +89,25 @@ Currently our broker/server can handle only upto 8 clients/Iot devices.</p>
 <p align="justify>
 <h2>Installation</h2>
 </p>
->By Using Hosted Website 
-   - Download the all files from folder [sensors](https://github.com/Nageshbansal/IotChatbot/tree/main/sensors) 
-   -  Install Python 
-   -  Install Paho-mqtt
-     ``` 
-     pip install paho-mqtt
-     ```
-   - Run each files in a seperate terminal 
-   
-     ```
-     python pub_temp.py
-     python pub_humidity.py
-     python pub_fan.py
-     python pub_light.py
-     ```
-     
-   - Open the link [IotChatbot](https://iotchatbot.azurewebsites.net/)
-   - Use following credentials
+  >By Using Hosted Website 
+    - Download the all files from folder [sensors](https://github.com/Nageshbansal/IotChatbot/tree/main/sensors) 
+    -  Install Python 
+    -  Install Paho-mqtt
+       ``` 
+       pip install paho-mqtt
        ```
+    - Run each files in a seperate terminal 
+   
+      ```
+      python pub_temp.py
+      python pub_humidity.py
+      python pub_fan.py
+      python pub_light.py
+      ```
+     
+    - Open the link [IotChatbot](https://iotchatbot.azurewebsites.net/)
+    - Use following credentials
+        ```
        Username: test
        Password : 1234 
         ```
@@ -145,8 +145,8 @@ Currently our broker/server can handle only upto 8 clients/Iot devices.</p>
        
      ```
 <p align="justify>
- ## Hosted Chatbot
- </p>
+<h2> Hosted Chatbot</h2>
+</p>
  [http://iotchatbot.azurewebsites.net/](http://iotchatbot.azurewebsites.net/)
   
   <p align="jutify">
